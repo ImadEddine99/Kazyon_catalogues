@@ -1,0 +1,761 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "create_catalog",
+        "importPath": "kazyon_catalog.view",
+        "description": "kazyon_catalog.view",
+        "isExtraImport": true,
+        "detail": "kazyon_catalog.view",
+        "documentation": {}
+    },
+    {
+        "label": "salutView",
+        "importPath": "kazyon_catalog.view",
+        "description": "kazyon_catalog.view",
+        "isExtraImport": true,
+        "detail": "kazyon_catalog.view",
+        "documentation": {}
+    },
+    {
+        "label": "addPageToCatalog",
+        "importPath": "kazyon_catalog.view",
+        "description": "kazyon_catalog.view",
+        "isExtraImport": true,
+        "detail": "kazyon_catalog.view",
+        "documentation": {}
+    },
+    {
+        "label": "fetchCatalogs",
+        "importPath": "kazyon_catalog.view",
+        "description": "kazyon_catalog.view",
+        "isExtraImport": true,
+        "detail": "kazyon_catalog.view",
+        "documentation": {}
+    },
+    {
+        "label": "fetchCatalogPages",
+        "importPath": "kazyon_catalog.view",
+        "description": "kazyon_catalog.view",
+        "isExtraImport": true,
+        "detail": "kazyon_catalog.view",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "connection",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationFailed",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "APIException",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jwt",
+        "description": "jwt",
+        "detail": "jwt",
+        "documentation": {}
+    },
+    {
+        "label": "Env",
+        "importPath": "environ",
+        "description": "environ",
+        "isExtraImport": true,
+        "detail": "environ",
+        "documentation": {}
+    },
+    {
+        "label": "escape",
+        "importPath": "django.utils.html",
+        "description": "django.utils.html",
+        "isExtraImport": true,
+        "detail": "django.utils.html",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "kazyon_catalog.models",
+        "description": "kazyon_catalog.models",
+        "isExtraImport": true,
+        "detail": "kazyon_catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Admins_token",
+        "importPath": "kazyon_catalog.models",
+        "description": "kazyon_catalog.models",
+        "isExtraImport": true,
+        "detail": "kazyon_catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Catalog_pages",
+        "importPath": "kazyon_catalog.models",
+        "description": "kazyon_catalog.models",
+        "isExtraImport": true,
+        "detail": "kazyon_catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Catalogs",
+        "importPath": "kazyon_catalog.models",
+        "description": "kazyon_catalog.models",
+        "isExtraImport": true,
+        "detail": "kazyon_catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "category",
+        "importPath": "unicodedata",
+        "description": "unicodedata",
+        "isExtraImport": true,
+        "detail": "unicodedata",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "concurrent.futures",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "ContentFile",
+        "importPath": "django.core.files.base",
+        "description": "django.core.files.base",
+        "isExtraImport": true,
+        "detail": "django.core.files.base",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "django.core.files.base",
+        "description": "django.core.files.base",
+        "isExtraImport": true,
+        "detail": "django.core.files.base",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.asgi",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-d20jhv^1v7n9m^y8-($q&9w=-&gj=f&(*s=00kv653gvg^u@7='\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"localhost\"]\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-d20jhv^1v7n9m^y8-($q&9w=-&gj=f&(*s=00kv653gvg^u@7='\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = [\"localhost\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = [\"localhost\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "peekOfCode": "ALLOWED_HOSTS = [\"localhost\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'kazyon_catalog'",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'kazyon_catalog'\n]\nMIDDLEWARE = [",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'kazyon_backend.urls'",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "peekOfCode": "ROOT_URLCONF = 'kazyon_backend.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'kazyon_backend.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    # 'default': {\n    #     'ENGINE': 'django.db.backends.sqlite3',\n    #     'NAME': BASE_DIR / 'db.sqlite3',\n    # },\n     'default': {\n        'ENGINE': 'django.db.backends.mysql', ",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "peekOfCode": "DATABASES = {\n    # 'default': {\n    #     'ENGINE': 'django.db.backends.sqlite3',\n    #     'NAME': BASE_DIR / 'db.sqlite3',\n    # },\n     'default': {\n        'ENGINE': 'django.db.backends.mysql', \n        'NAME': 'kazyon_catalog',\n        'USER': 'root',\n        'PASSWORD': '',",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.urls",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls), # by default\n    path('salut/', salutView), # test view\n    path('api/create-new-catalog/', create_catalog.as_view()), # create a new catalog\n    path('api/add-page-to-catalog/', addPageToCatalog.as_view()), # add a page to a new catalog\n    path('api/get-all-catalogs/', fetchCatalogs.as_view()), # get all catalogs\n    path('api/get-catalog-pages/', fetchCatalogPages.as_view()), # get the pages of a specific catalog\n]",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_backend.wsgi",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_backend.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_backend.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.migrations.0001_initial",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Admin_types',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('type_name', models.TextField()),",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.migrations.0002_token_admins_token",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.migrations.0002_token_admins_token",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('kazyon_catalog', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Token',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('token', models.TextField()),",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.migrations.0002_token_admins_token",
+        "documentation": {}
+    },
+    {
+        "label": "KazyonCatalogConfig",
+        "kind": 6,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.apps",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.apps",
+        "peekOfCode": "class KazyonCatalogConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'kazyon_catalog'",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.apps",
+        "documentation": {}
+    },
+    {
+        "label": "MyCustomExceptionCode401",
+        "kind": 6,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.authenticate",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.authenticate",
+        "peekOfCode": "class MyCustomExceptionCode401(APIException):\n    status_code = 401\n    default_detail = 'Erreur d\\'authentification.'\n    default_code = 'authentication_failed'\nclass Authenticate():\n    def authenticate(self, request):\n        if \"user_id\" not in request.data:\n            raise AuthenticationFailed('Pas d\\'id renseigné !')\n        user_id = escape(request.data['user_id'])\n        jwt_token = request.headers.get('authorization', None)",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.authenticate",
+        "documentation": {}
+    },
+    {
+        "label": "Authenticate",
+        "kind": 6,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.authenticate",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.authenticate",
+        "peekOfCode": "class Authenticate():\n    def authenticate(self, request):\n        if \"user_id\" not in request.data:\n            raise AuthenticationFailed('Pas d\\'id renseigné !')\n        user_id = escape(request.data['user_id'])\n        jwt_token = request.headers.get('authorization', None)\n        if not jwt_token:\n            raise AuthenticationFailed('Non authentifié !')\n                # soustraire le \"Bearer \" devant le jwt\n        token = jwt_token[7:]",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.authenticate",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.authenticate",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.authenticate",
+        "peekOfCode": "env = Env()\nenv.read_env()\nSECRET_KEY = env(\"JWT_SECRET_KEY\")\nSECRET_KEY_ADMIN = env(\"JWT_SECRET_KEY_ADMIN\")\nclass MyCustomExceptionCode401(APIException):\n    status_code = 401\n    default_detail = 'Erreur d\\'authentification.'\n    default_code = 'authentication_failed'\nclass Authenticate():\n    def authenticate(self, request):",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.authenticate",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.authenticate",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.authenticate",
+        "peekOfCode": "SECRET_KEY = env(\"JWT_SECRET_KEY\")\nSECRET_KEY_ADMIN = env(\"JWT_SECRET_KEY_ADMIN\")\nclass MyCustomExceptionCode401(APIException):\n    status_code = 401\n    default_detail = 'Erreur d\\'authentification.'\n    default_code = 'authentication_failed'\nclass Authenticate():\n    def authenticate(self, request):\n        if \"user_id\" not in request.data:\n            raise AuthenticationFailed('Pas d\\'id renseigné !')",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.authenticate",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY_ADMIN",
+        "kind": 5,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.authenticate",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.authenticate",
+        "peekOfCode": "SECRET_KEY_ADMIN = env(\"JWT_SECRET_KEY_ADMIN\")\nclass MyCustomExceptionCode401(APIException):\n    status_code = 401\n    default_detail = 'Erreur d\\'authentification.'\n    default_code = 'authentication_failed'\nclass Authenticate():\n    def authenticate(self, request):\n        if \"user_id\" not in request.data:\n            raise AuthenticationFailed('Pas d\\'id renseigné !')\n        user_id = escape(request.data['user_id'])",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.authenticate",
+        "documentation": {}
+    },
+    {
+        "label": "Admins",
+        "kind": 6,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "peekOfCode": "class Admins(models.Model):\n    first_name = models.CharField(max_length=60)\n    last_name = models.CharField(max_length=60)\n    type = models.IntegerField()\n    password = models.TextField()  # Use Django's user handling for security\n    email = models.EmailField(unique=True)\n    phone = models.CharField(max_length=15, blank=True, null=True)\n    avatar = models.TextField(blank=True, null=True)\n    created_at = models.DateTimeField()\n    status = models.IntegerField(default=1)  # Assuming 1 is active",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Admin_types",
+        "kind": 6,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "peekOfCode": "class Admin_types(models.Model):\n    type_name= models.TextField()\n    type_number= models.TextField()\n    class Meta:\n        db_table='admin_types'\nclass Catalogs(models.Model):\n    start_date= models.fields.DateField(default=None, blank=True, null=True)\n    end_date= models.fields.DateField(default=None, blank=True, null=True)\n    image_link= models.TextField()\n    pages= models.IntegerField()",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Catalogs",
+        "kind": 6,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "peekOfCode": "class Catalogs(models.Model):\n    start_date= models.fields.DateField(default=None, blank=True, null=True)\n    end_date= models.fields.DateField(default=None, blank=True, null=True)\n    image_link= models.TextField()\n    pages= models.IntegerField()\n    active= models.BooleanField()\n    created_at= models.DateTimeField()\n    user_id= models.IntegerField()\n    class Meta:\n        db_table='catalogs'",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Catalog_pages",
+        "kind": 6,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "peekOfCode": "class Catalog_pages(models.Model):\n    link= models.TextField()\n    added_at= models.DateTimeField()\n    catalog_id= models.IntegerField()\n    number= models.IntegerField()\n    class Meta:\n        db_table='catalog_pages'\nclass Token(models.Model):\n    token = models.fields.TextField()\n    user_id = models.fields.IntegerField()",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "peekOfCode": "class Token(models.Model):\n    token = models.fields.TextField()\n    user_id = models.fields.IntegerField()\n    created_at = models.fields.DateTimeField(default=timezone.now, blank=True, null=True, max_length=0)\n    class Meta:\n        db_table = \"token\"\nclass Admins_token(models.Model):\n    token = models.fields.TextField()\n    admin = models.ForeignKey(Admins, on_delete=models.CASCADE)\n    created_at = models.fields.DateTimeField(default=timezone.now, blank=True, null=True, max_length=0)",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Admins_token",
+        "kind": 6,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "peekOfCode": "class Admins_token(models.Model):\n    token = models.fields.TextField()\n    admin = models.ForeignKey(Admins, on_delete=models.CASCADE)\n    created_at = models.fields.DateTimeField(default=timezone.now, blank=True, null=True, max_length=0)\n    class Meta:\n        db_table = \"admins_token\"",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "testView",
+        "kind": 6,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "peekOfCode": "class testView(APIView):\n    def post(self, request):\n        print('TEST PASS')\n        # return JsonResponse({ 'msg': 'TEST PASS' })\nclass create_catalog(APIView):\n    # requires user_id , start_date , end_date, image_link, number of pages;\n    def post(self, request):\n        try:\n            user_id = request.data['user_id']\n            start_date = request.data['start_date']",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "documentation": {}
+    },
+    {
+        "label": "create_catalog",
+        "kind": 6,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "peekOfCode": "class create_catalog(APIView):\n    # requires user_id , start_date , end_date, image_link, number of pages;\n    def post(self, request):\n        try:\n            user_id = request.data['user_id']\n            start_date = request.data['start_date']\n            end_date = request.data['end_date']\n            image_link = request.data['image_link']\n            pages = request.data['pages']\n            # Create the Catalog instance",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "documentation": {}
+    },
+    {
+        "label": "addPageToCatalog",
+        "kind": 6,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "peekOfCode": "class addPageToCatalog(APIView):\n    #requires image link, catalog id, page number\n    def post(self, request):\n        try :\n            image_link = request.data['image_link']\n            catalog_id = request.data['catalog_id']\n            page_number = request.data['page_number']\n            Catalog_pages(link=image_link, catalog_id=catalog_id, page_number=page_number).save()\n            last_added_page=Catalog_pages.objects.filter(link=image_link, catalog_id=catalog_id, page_number=page_number)\n            if last_added_page.exists() :",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "documentation": {}
+    },
+    {
+        "label": "fetchCatalogs",
+        "kind": 6,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "peekOfCode": "class fetchCatalogs(APIView):\n    def post(self, request):\n        # no payload required\n        catalog_list=[]\n        try:\n            catalogs = Catalogs.objects.filter(active=True, end_date__lte=timezone.now()).all()\n            if len(catalogs)>0:\n                for catalog in catalogs:\n                    catalog_list.append({\n                        \"id\": catalog.id,",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "documentation": {}
+    },
+    {
+        "label": "fetchCatalogPages",
+        "kind": 6,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "peekOfCode": "class fetchCatalogPages(APIView):\n    # requires catalog_id\n    def post(self, request):\n        catalog_id = request.data['catalog_id']\n        try:\n            catalog_pages_list=[]\n            pages=Catalog_pages.objects.filter(catalog_id=catalog_id).all()\n            if len(pages)>0:\n                for page in pages:\n                    catalog_pages_list.append(",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "documentation": {}
+    },
+    {
+        "label": "salutView",
+        "kind": 2,
+        "importPath": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "description": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "peekOfCode": "def salutView(request):\n    return HttpResponse('Salut les gens')\nclass testView(APIView):\n    def post(self, request):\n        print('TEST PASS')\n        # return JsonResponse({ 'msg': 'TEST PASS' })\nclass create_catalog(APIView):\n    # requires user_id , start_date , end_date, image_link, number of pages;\n    def post(self, request):\n        try:",
+        "detail": "kazyon_django_backend.kazyon_backend.kazyon_catalog.view",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "kazyon_django_backend.kazyon_backend.manage",
+        "description": "kazyon_django_backend.kazyon_backend.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'kazyon_backend.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "kazyon_django_backend.kazyon_backend.manage",
+        "documentation": {}
+    }
+]
