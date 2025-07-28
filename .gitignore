@@ -1,5 +1,5 @@
-############################## Frontend - Flutter
-# Misc
+##############################Frontend
+# Miscellaneous
 kayon_frontend/*.class
 kayon_frontend/*.log
 kayon_frontend/*.pyc
@@ -11,73 +11,113 @@ kayon_frontend/.history
 kayon_frontend/.svn/
 kayon_frontend/migrate_working_dir/
 
-# IntelliJ / Android Studio
+# IntelliJ related
 kayon_frontend/*.iml
 kayon_frontend/*.ipr
 kayon_frontend/*.iws
 kayon_frontend/.idea/
 
-# VS Code
-kayon_frontend/.vscode/
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
 
-# Flutter
+# Flutter/Dart/Pub related
+kayon_frontend/**/doc/api/
+kayon_frontend/**/ios/Flutter/.last_build_id
 kayon_frontend/.dart_tool/
 kayon_frontend/.flutter-plugins
 kayon_frontend/.flutter-plugins-dependencies
 kayon_frontend/.pub-cache/
 kayon_frontend/.pub/
 kayon_frontend/build/
-kayon_frontend/**/doc/api/
-kayon_frontend/**/ios/Flutter/.last_build_id
 
-# Symbolication / Obfuscation
+# Symbolication related
 kayon_frontend/app.*.symbols
+
+# Obfuscation related
 kayon_frontend/app.*.map.json
 
-# Android build folders
+# Android Studio will place build artifacts here
 kayon_frontend/android/app/debug
 kayon_frontend/android/app/profile
 kayon_frontend/android/app/release
+kayon_frontend/.vscode/
 
 
-############################## Backend - Django
 
-# Env files
-ENV
-.env
+############################Backend
+kazyon_django_backend/ENV
 kazyon_django_backend/.env
 
-# Sensitive config
+
+# settings
 kazyon_django_backend/kazyon_backend/kazyon_backend/settings.py
-kazyon_django_backend/kazyon_backend/kazyon_backend/save.py
-
-# Compiled
-kazyon_django_backend/*.py[cod]
-kazyon_django_backend/*$py.class
-kazyon_django_backend/__pycache__/
-
-# Logs, media, DB
+kazyon_django_backend/mdl_finetuned
+kazyon_django_backend/.vscode/*
+!kazyon_django_backend/.vscode/settings.json
+!kazyon_django_backend/.vscode/tasks.json
+!kazyon_django_backend/.vscode/launch.json
+!kazyon_django_backend/.vscode/extensions.json
+# Django #
 kazyon_django_backend/*.log
 kazyon_django_backend/*.pot
+kazyon_django_backend/*.pyc
+kazyon_django_backend/__pycache__
 kazyon_django_backend/db.sqlite3
 kazyon_django_backend/media
+# Backup files #
 kazyon_django_backend/*.bak
 
-# PyCharm / JetBrains
-kazyon_django_backend/.idea/
+# If you are using PyCharm #
+# User-specific stuff
+kazyon_django_backend/.idea/**/workspace.xml
+kazyon_django_backend/.idea/**/tasks.xml
+kazyon_django_backend/.idea/**/usage.statistics.xml
+kazyon_django_backend/.idea/**/dictionaries
+kazyon_django_backend/.idea/**/shelf
+
+# AWS User-specific
+kazyon_django_backend/.idea/**/aws.xml
+
+# Generated files
+kazyon_django_backend/.idea/**/contentModel.xml
+
+# Sensitive or high-churn files
+kazyon_django_backend/.idea/**/dataSources/
+kazyon_django_backend/.idea/**/dataSources.ids
+kazyon_django_backend/.idea/**/dataSources.local.xml
+kazyon_django_backend/.idea/**/sqlDataSources.xml
+kazyon_django_backend/.idea/**/dynamic.xml
+kazyon_django_backend/.idea/**/uiDesigner.xml
+kazyon_django_backend/.idea/**/dbnavigator.xml
+
+# Gradle
+kazyon_django_backend/.idea/**/gradle.xml
+kazyon_django_backend/.idea/**/libraries
+
+# File-based project format
 kazyon_django_backend/*.iws
+
+# IntelliJ
 kazyon_django_backend/out/
+
+# JIRA plugin
 kazyon_django_backend/atlassian-ide-plugin.xml
 
-# Packaging
-kazyon_django_backend/.Python
-kazyon_django_backend/build/
+# Python #
+kazyon_django_backend/*.py[cod]
+kazyon_django_backend/*$py.class
+
+# Distribution / packaging
+kazyon_django_backend/.Python build/
 kazyon_django_backend/develop-eggs/
 kazyon_django_backend/dist/
 kazyon_django_backend/downloads/
 kazyon_django_backend/eggs/
 kazyon_django_backend/.eggs/
-kazyon_django_backend/lib*/
+kazyon_django_backend/lib/
+kazyon_django_backend/lib64/
 kazyon_django_backend/parts/
 kazyon_django_backend/sdist/
 kazyon_django_backend/var/
@@ -88,56 +128,164 @@ kazyon_django_backend/*.egg
 kazyon_django_backend/*.manifest
 kazyon_django_backend/*.spec
 
-# Install logs
+# Installer logs
 kazyon_django_backend/pip-log.txt
 kazyon_django_backend/pip-delete-this-directory.txt
 
-# Tests / Coverage
+# Unit test / coverage reports
 kazyon_django_backend/htmlcov/
 kazyon_django_backend/.tox/
-kazyon_django_backend/.coverage*
-kazyon_django_backend/.cache/
+kazyon_django_backend/.coverage
+kazyon_django_backend/.coverage.*
+kazyon_django_backend/.cache
 kazyon_django_backend/.pytest_cache/
 kazyon_django_backend/nosetests.xml
 kazyon_django_backend/coverage.xml
 kazyon_django_backend/*.cover
 kazyon_django_backend/.hypothesis/
 
-# Jupyter
+# Jupyter Notebook
 kazyon_django_backend/.ipynb_checkpoints
 
-# Envs
-kazyon_django_backend/.venv/
-kazyon_django_backend/env*/
-kazyon_django_backend/ENV/
+# pyenv
+kazyon_django_backend/.python-version
 
-# Mypy
-kazyon_django_backend/.mypy_cache/
-
-# Celery
+# celery
 kazyon_django_backend/celerybeat-schedule.*
 
-# SageMath
+# SageMath parsed files
 kazyon_django_backend/*.sage.py
 
-# VSCode
-kazyon_django_backend/.vscode/*
-!kazyon_django_backend/.vscode/settings.json
-!kazyon_django_backend/.vscode/tasks.json
-!kazyon_django_backend/.vscode/launch.json
-!kazyon_django_backend/.vscode/extensions.json
+# Environments
+kazyon_django_backend/.env
+kazyon_django_backend/.venv
+kazyon_django_backend/env/
+kazyon_django_backend/venv/
+kazyon_django_backend/ENV/
+kazyon_django_backend/env.bak/
+kazyon_django_backend/venv.bak/
 
-# Sublime Text
-kazyon_django_backend/*.sublime-*
+# mkdocs documentation
+kazyon_django_backend/site
+
+# mypy
+kazyon_django_backend/.mypy_cache/
+
+# Sublime Text #
 kazyon_django_backend/*.tmlanguage.cache
 kazyon_django_backend/*.tmPreferences.cache
 kazyon_django_backend/*.stTheme.cache
+kazyon_django_backend/*.sublime-workspace
+kazyon_django_backend/*.sublime-project
 
-# Misc
-kazyon_django_backend/.history
+# sftp configuration file
 kazyon_django_backend/sftp-config.json
-kazyon_django_backend/Control.*
+
+# Package control specific files Package
+kazyon_django_backend/Control.last-run
+kazyon_django_backend/Control.ca-list
+kazyon_django_backend/Control.ca-bundle
+kazyon_django_backend/Control.system-ca-bundle
 kazyon_django_backend/GitHub.sublime-settings
 
-# Custom
-kazyon_django_backend/mdl_finetuned/
+# Visual Studio Code #
+kazyon_django_backend/.vscode/*
+kazyon_django_backend/!.vscode/settings.json
+kazyon_django_backend/!.vscode/tasks.json
+kazyon_django_backend/!.vscode/launch.json
+kazyon_django_backend/!.vscode/extensions.json
+kazyon_django_backend/.history
+
+=======
+# Python # 
+kazyon_django_backend/*.py[cod] 
+kazyon_django_backend/*$py.class 
+
+# Distribution / packaging 
+kazyon_django_backend/.Python build/ 
+kazyon_django_backend/develop-eggs/ 
+kazyon_django_backend/dist/ 
+kazyon_django_backend/downloads/ 
+kazyon_django_backend/eggs/ 
+kazyon_django_backend/.eggs/ 
+kazyon_django_backend/lib/ 
+kazyon_django_backend/lib64/ 
+kazyon_django_backend/parts/ 
+kazyon_django_backend/sdist/ 
+kazyon_django_backend/var/ 
+kazyon_django_backend/wheels/ 
+kazyon_django_backend/*.egg-info/ 
+kazyon_django_backend/.installed.cfg 
+kazyon_django_backend/*.egg 
+kazyon_django_backend/*.manifest 
+kazyon_django_backend/*.spec 
+
+# Installer logs 
+kazyon_django_backend/pip-log.txt 
+kazyon_django_backend/pip-delete-this-directory.txt 
+
+# Unit test / coverage reports 
+kazyon_django_backend/htmlcov/ 
+kazyon_django_backend/.tox/ 
+kazyon_django_backend/.coverage 
+kazyon_django_backend/.coverage.* 
+kazyon_django_backend/.cache 
+kazyon_django_backend/.pytest_cache/ 
+kazyon_django_backend/nosetests.xml 
+kazyon_django_backend/coverage.xml 
+kazyon_django_backend/*.cover 
+kazyon_django_backend/.hypothesis/ 
+
+# Jupyter Notebook 
+kazyon_django_backend/.ipynb_checkpoints 
+
+# pyenv 
+kazyon_django_backend/.python-version 
+
+# celery 
+kazyon_django_backend/celerybeat-schedule.* 
+
+# SageMath parsed files 
+kazyon_django_backend/*.sage.py 
+
+# Environments 
+kazyon_django_backend/.env 
+kazyon_django_backend/.venv 
+kazyon_django_backend/env/ 
+kazyon_django_backend/venv/ 
+kazyon_django_backend/ENV/ 
+kazyon_django_backend/env.bak/ 
+kazyon_django_backend/venv.bak/ 
+
+# mkdocs documentation 
+kazyon_django_backend/site 
+
+# mypy 
+kazyon_django_backend/.mypy_cache/ 
+
+# Sublime Text # 
+kazyon_django_backend/*.tmlanguage.cache 
+kazyon_django_backend/*.tmPreferences.cache 
+kazyon_django_backend/*.stTheme.cache 
+kazyon_django_backend/*.sublime-workspace 
+kazyon_django_backend/*.sublime-project 
+
+# sftp configuration file 
+kazyon_django_backend/sftp-config.json 
+
+# Package control specific files Package 
+kazyon_django_backend/Control.last-run 
+kazyon_django_backend/Control.ca-list 
+kazyon_django_backend/Control.ca-bundle 
+kazyon_django_backend/Control.system-ca-bundle 
+kazyon_django_backend/GitHub.sublime-settings 
+
+# Visual Studio Code # 
+kazyon_django_backend/.vscode/* 
+kazyon_django_backend/!.vscode/settings.json 
+kazyon_django_backend/!.vscode/tasks.json 
+kazyon_django_backend/!.vscode/launch.json 
+kazyon_django_backend/!.vscode/extensions.json 
+kazyon_django_backend/.history
+kazyon_django_backend/kazyon_backend/kazyon_backend/save.py
+kazyon_django_backend/.vscode
