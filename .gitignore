@@ -31,6 +31,7 @@ kayon_frontend/.flutter-plugins-dependencies
 kayon_frontend/.pub-cache/
 kayon_frontend/.pub/
 kayon_frontend/build/
+kayon_frontend/.env/
 
 # Symbolication related
 kayon_frontend/app.*.symbols
